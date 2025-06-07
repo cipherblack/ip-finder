@@ -48,21 +48,6 @@ IP: 192.168.1.2, MAC: AA:BB:CC:DD:EE:FF, Hostname: printer.local
 IP: 192.168.1.3, MAC: FF:EE:DD:CC:BB:AA, Hostname: Unknown
 ```
 
-## Donations
-
-If you appreciate this project and want to support its development, feel free to send a donation to the following wallet addresses:
-
-### TON Address  
-```
-UQA59lyLjF8TXbvAXXyLk9U1f-LN03jyJyit3pXqonZGXZGO
-```
-### BTC Address  
-```
-bc1q3ltptp54pe587axj5ye26pcqqg3sqrlu9fcam0
-```
-
-Your contributions are greatly appreciated!
-
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
